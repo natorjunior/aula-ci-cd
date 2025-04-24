@@ -2,6 +2,6 @@
 Pequenas utilidades de texto.
 """
 
-def inverter(frase: str) -> str:
+def inverter(frase):
     """Retorna a string invertida."""
     return frase[::-1]
